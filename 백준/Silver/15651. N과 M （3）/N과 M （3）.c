@@ -2,7 +2,7 @@
  
 int n, m;
 int arr[7];
-void nm(int cnt);
+void nm(int count);
  
 int main() {
 	scanf("%d %d", &n, &m);
